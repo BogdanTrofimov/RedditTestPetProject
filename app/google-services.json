@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230555574626",
+    "project_id": "roman-prys",
+    "storage_bucket": "roman-prys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230555574626:android:69d394e474a13f92d40c3b",
+        "android_client_info": {
+          "package_name": "com.example.petproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230555574626-qtk3m6fpk44o90asindn8qgmltfltolq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBdTJubgjnmoGfJPopG6Wj7wXh1D3YjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230555574626-qtk3m6fpk44o90asindn8qgmltfltolq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
